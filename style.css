@@ -1,0 +1,40 @@
+body{
+  background-color: hsl(200, 95%, 55%);
+}
+.section1 li{
+  display: inline-block;
+   padding: 20px;
+   margin: 20px;
+font-size: 30px;
+}
+.section1 #qw {
+color: white;
+}
+.section2 li {
+  display: inline-block;
+  padding: 100px;
+  position: relative;
+  padding-right: 130px;
+margin-left: 20px;
+height:100px ;
+width: 60px;
+}
+.section2  {
+  padding:20px;
+  margin-left: 70px; 
+  
+}
+
+.section2 .q1{
+  background-color: red;
+}
+.section2 .q2{
+  background-color: azure;
+}
+.section2 .q3{
+  background-color: brown;
+}
+#header{
+  font-size: 60px;
+  text-align: center;
+}
