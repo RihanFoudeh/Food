@@ -32,11 +32,14 @@ var counter =prompt("How many items do you want ? "+food)
 if (food == "shawarma"){
 
 
+
+
 for (var x=0; x<counter ; x++){
 
   document.write("<div>" +"<h1>" + "shawarma " + "</h1>" +
 			 "<img src='https://static.toiimg.com/thumb/64696930.cms?imgsize=329052&width=800&height=800' >"+ "</div>")
       
+
  }
 }
 
@@ -83,7 +86,7 @@ var counter =prompt("How many items do you want ? "+food)
 
 
 
-       }
+       
        if(food=="Happy meal"){ 
          
          
@@ -110,7 +113,10 @@ var counter =prompt("How many items do you want ? "+food)
        
           }
        }
+
+
        }
+}
        favfood();
 
 var ratemypage =prompt('How many rate my website');
