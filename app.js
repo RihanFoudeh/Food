@@ -128,7 +128,7 @@ function rate(num) {
   }
 
 
-  // return ratemypage ;
+  //return ratemypage ;
 }
 
 
